@@ -5,7 +5,7 @@
 > Get the paid version here:
 >
 > - Paid version on Agensi, $15: https://www.agensi.io/skills/vibe-app-quality-checker
-> - Paid version on PromptBase, $14.99, coming soon, link will be added when PromptBase approves it.
+> - Paid version on PromptBase, $14.99: https://promptbase.com/skill/vibe-app-quality-checker
 
 ---
 
