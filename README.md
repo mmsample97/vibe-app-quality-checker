@@ -1,6 +1,6 @@
 > Free version, here on GitHub: Check only. It tells you what is wrong, you fix it yourself.
 >
-> Paid version, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
+> Paid version, $10, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
 >
 > Get the paid version here:
 >
