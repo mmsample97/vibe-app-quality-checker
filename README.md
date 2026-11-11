@@ -1,11 +1,11 @@
 > Free version, here on GitHub: Check only. It tells you what is wrong, you fix it yourself.
 >
-> Paid version, $10, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
+> Paid version, ready fix kit: Same check, PLUS the fix ready to use. Templates, examples, and a client ready report. You do not start from zero.
 >
 > Get the paid version here:
 >
-> - Paid version on Agensi, $10: https://www.agensi.io/skills/vibe-app-quality-checker
-> - Paid version on PromptBase, $9.99: https://promptbase.com/skill/vibe-app-quality-checker
+> - Paid version on Agensi: https://www.agensi.io/skills/vibe-app-quality-checker
+> - Paid version on PromptBase: https://promptbase.com/skill/vibe-app-quality-checker
 
 ---
 
